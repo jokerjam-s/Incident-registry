@@ -15,8 +15,6 @@
 
 !["Скрин 6"](/ScreenShots/Picture6.png "Screen 6")
 
-!["Скрин 7"](/ScreenShots/Picture7.png "Screen 7")
-
 !["Скрин 8"](/ScreenShots/Picture8.png "Screen 8")
 
 !["Скрин 9"](/ScreenShots/Picture9.png "Screen 9")
